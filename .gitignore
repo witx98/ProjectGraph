@@ -1,0 +1,13 @@
+Release
+Debug
+x64
+x86
+output
+Projekt/Release
+Projekt/x64
+Projekt/x86
+.vs
+Testy/.vs
+Testy/Debug
+Testy/Release
+Testy/x64

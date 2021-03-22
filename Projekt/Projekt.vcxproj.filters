@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Ewelina">
+      <UniqueIdentifier>{ffe92172-0c95-41b6-bf3f-5dbbdc6c900d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe\Wojtas">
+      <UniqueIdentifier>{3fa25ac4-7981-4540-af79-8c41734d8e4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki zasobów\Wojtas">
+      <UniqueIdentifier>{aeb57aad-0c59-4426-9cd9-205cce37e08c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki zasobów\Patryk">
+      <UniqueIdentifier>{140d76cb-ffa7-4397-afcd-60ebe0662eac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki zasobów\Ewelina">
+      <UniqueIdentifier>{65050b09-686a-4c96-9b7c-89c282352465}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki zasobów\Wicher">
+      <UniqueIdentifier>{9df833bd-50d8-405e-8eb2-9de20ba75ee3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki zasobów\Mateusz">
+      <UniqueIdentifier>{1c2e7267-24b7-4f2c-b8da-dc4cd90fc897}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki zasobów\Bartek">
+      <UniqueIdentifier>{fe3e3328-afa5-4237-a1cf-eb6115b818c5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Ewelina\menu.cpp">
+      <Filter>Pliki zasobów\Ewelina</Filter>
+    </ClCompile>
+    <ClCompile Include="Ewelina\policz_linijki_kodu.cpp">
+      <Filter>Pliki zasobów\Ewelina</Filter>
+    </ClCompile>
+    <ClCompile Include="Mateusz\znajdz_polaczenia_miedzy_funkcjami.cpp">
+      <Filter>Pliki zasobów\Mateusz</Filter>
+    </ClCompile>
+    <ClCompile Include="Bartek\znajdz_funkcje_i_wagi_pomiedzy_plikami.cpp">
+      <Filter>Pliki zasobów\Bartek</Filter>
+    </ClCompile>
+    <ClCompile Include="Patryk\Pozyskanie_wstepnych_danych.cpp">
+      <Filter>Pliki zasobów\Patryk</Filter>
+    </ClCompile>
+    <ClCompile Include="Patryk\przygotuj_txt_dla_paradigma.cpp">
+      <Filter>Pliki zasobów\Patryk</Filter>
+    </ClCompile>
+    <ClCompile Include="Patryk\zamiana_na_stringi_do_graphitza.cpp">
+      <Filter>Pliki zasobów\Patryk</Filter>
+    </ClCompile>
+    <ClCompile Include="Patryk\znajdz_polaczenia_pomiedzy_plikami.cpp">
+      <Filter>Pliki zasobów\Patryk</Filter>
+    </ClCompile>
+    <ClCompile Include="Wojtas\Funkcja.cpp">
+      <Filter>Pliki zasobów\Wojtas</Filter>
+    </ClCompile>
+    <ClCompile Include="Wojtas\Funkcje_do_stringow.cpp">
+      <Filter>Pliki zasobów\Wojtas</Filter>
+    </ClCompile>
+    <ClCompile Include="Wojtas\Modul.cpp">
+      <Filter>Pliki zasobów\Wojtas</Filter>
+    </ClCompile>
+    <ClCompile Include="Wojtas\Plik.cpp">
+      <Filter>Pliki zasobów\Wojtas</Filter>
+    </ClCompile>
+    <ClCompile Include="Wojtas\wykonaj.cpp">
+      <Filter>Pliki zasobów\Wojtas</Filter>
+    </ClCompile>
+    <ClCompile Include="Wojtas\znajdz_definicje_funkcji.cpp">
+      <Filter>Pliki zasobów\Wojtas</Filter>
+    </ClCompile>
+    <ClCompile Include="Wojtas\znajdz_elementy_przestrzeni_nazw.cpp">
+      <Filter>Pliki zasobów\Wojtas</Filter>
+    </ClCompile>
+    <ClCompile Include="Wojtas\znajdz_przestrzenie_nazw.cpp">
+      <Filter>Pliki zasobów\Wojtas</Filter>
+    </ClCompile>
+    <ClCompile Include="Mateusz\rysuj_graf.cpp">
+      <Filter>Pliki zasobów\Mateusz</Filter>
+    </ClCompile>
+    <ClCompile Include="Bartek\Metis.cpp">
+      <Filter>Pliki zasobów\Bartek</Filter>
+    </ClCompile>
+    <ClCompile Include="Wicher\zlozonosc_cyklomatyczna.cpp">
+      <Filter>Pliki zasobów\Wicher</Filter>
+    </ClCompile>
+    <ClCompile Include="Patryk\kopiowanie_do_funkcji.cpp">
+      <Filter>Pliki zasobów\Patryk</Filter>
+    </ClCompile>
+    <ClCompile Include="Patryk\polaczenia_i_wagi_modulow.cpp">
+      <Filter>Pliki zasobów\Patryk</Filter>
+    </ClCompile>
+    <ClCompile Include="Ewelina\aktualna_wersja_gita.cpp">
+      <Filter>Pliki zasobów\Ewelina</Filter>
+    </ClCompile>
+    <ClCompile Include="Wicher\polaczenie_modulu_z_plikiem.cpp">
+      <Filter>Pliki zasobów\Wicher</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Wojtas\Funkcje_od_stringow.h">
+      <Filter>Pliki nagłówkowe\Wojtas</Filter>
+    </ClInclude>
+    <ClInclude Include="Ewelina\menu.h">
+      <Filter>Pliki nagłówkowe\Ewelina</Filter>
+    </ClInclude>
+    <ClInclude Include="Graf.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

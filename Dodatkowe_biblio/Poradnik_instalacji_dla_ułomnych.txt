@@ -1,0 +1,10 @@
+Szukasz na dysku gdzie masz zainstalowane folderu Microsoft Visual Studio
+->2019
+->Community
+->VC
+->Tools
+->MSVC
+->Jakies cyferki
+
+Do include wrzucasz pliki ".h"
+Do lib wszucasz pliki ".lib" odpowiednio do 32 i 64 bitowych 
